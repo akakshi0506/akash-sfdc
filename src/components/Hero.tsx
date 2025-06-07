@@ -17,7 +17,7 @@ const Hero: React.FC = () => {
         <div 
           className="absolute top-0 left-0 w-full h-full bg-no-repeat transform scale-100"
           style={{
-            backgroundImage: 'url("images/DSC_2456.JPG")',
+            backgroundImage: `url(${import.meta.env.BASE_URL}images/DSC_2456.JPG)`,
             backgroundSize: 'cover',
             backgroundPosition: 'center 8%'
           }}

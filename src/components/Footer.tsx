@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
         <div className="flex flex-col items-center">
           <div className="flex items-center space-x-2 mb-6">
             <Code2 className="w-8 h-8 text-neon-blue" />
-            <span className="text-xl font-bold">Akash</span>
+            <span className="text-xl font-bold">Akakshi</span>
           </div>
           
           <p className="text-light-text-600 text-center max-w-xl mb-8">
